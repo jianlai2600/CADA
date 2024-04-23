@@ -29,3 +29,24 @@ This is the data preprocessing, training, and testing code for the CADA: Cross-S
 
 ### Comparison of multi-source domain transfer learning effects
 <img width="423" alt="截屏2024-04-23 10 20 45" src="https://github.com/jianlai2600/CADA/assets/61290171/467e241c-dd2c-4d18-ad1b-d1a42f6bbfe4">
+
+## Code
+Use the code below to extract log from dataset.
+```
+python extract_*.py
+```
+
+Use the code below to data process.
+```
+python dp_*.py
+```
+
+Use the code below to get the data loader.
+```
+DataLoader.ipynb
+```
+
+Use the code below to train and test our method.
+```
+CADA.ipynb
+```
